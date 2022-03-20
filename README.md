@@ -1,5 +1,11 @@
 ### Hi there 👋
+ #### Soy un estudiante _*aprendiendo*_:
+ 1. c
+ 2. java 
+ 3. python
+ 
 
+ 
 <!--
 **OctaPin/Octapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
