@@ -22,3 +22,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#include <stdio.h>
+
+int main(void){
+    int dinero=0;
+
+    printf("Ingrese su monto: ");
+    scanf("%d",&dinero);
+    printf("su monto sera de %d!\n",dinero);  
+
+    if(dinero<20) {       
+        printf("el monto es insuficiente para retirar");
+        return 0;
+    }
+     if(dinero>5000) {         
+        printf("el monto es demasiado para retirar");
+        return 0;
+    }
+    return 0;    
+}
