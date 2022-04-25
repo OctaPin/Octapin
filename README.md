@@ -2,9 +2,9 @@
 ### Mi nombre es Octavio Pino
  
  #### Soy un estudiante de 4°2da Avionica  _*aprendiendo*_:
- 1. #c
- 2. #java 
- 3. #python
+ 1. c
+ 2. java 
+ 3. python
  
 
  
