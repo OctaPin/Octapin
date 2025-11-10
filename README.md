@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### Mi nombre es Octavio Pino
  
- #### Soy un estudiante de 4°2da Avionica  _*aprendiendo*_:
+ #### Recivido de la Escuela Tecnica n°7 Taller Regional Quilmes_*aprendiendo*_:
  1. c
- 2. java 
- 3. python
+ 2. python
+ 3. html
  
 
  
